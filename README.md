@@ -25,13 +25,13 @@ The model captures long-term dependencies and context within text, making it sui
 
 ## 📷 Sample Output
 
-```python
+```
 Input Sequence: "Deep learning enables machines to"
 Predicted Next Word: "learn"
 
 Input Sequence: "The quick brown fox jumps over the"
 Predicted Next Word: "lazy"
-```python
+```
 ---
 
 ## 📌 Future Work
