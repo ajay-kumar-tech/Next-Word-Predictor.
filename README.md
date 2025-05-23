@@ -31,7 +31,7 @@ Predicted Next Word: "learn"
 
 Input Sequence: "The quick brown fox jumps over the"
 Predicted Next Word: "lazy"
-
+```python
 ---
 
 ## 📌 Future Work
